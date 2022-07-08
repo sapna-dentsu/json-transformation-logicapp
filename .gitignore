@@ -272,3 +272,4 @@ __queuestorage__/
 #testing with REST 
 testing/
 *.http
+solution/logic/packages-microsoft-prod.deb
